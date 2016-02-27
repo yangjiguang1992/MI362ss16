@@ -1,1 +1,3 @@
 yangjiguang1992.mooo.com	CNAME
+
+https://agile-sea-49894.herokuapp.com/
